@@ -1,0 +1,22 @@
+{
+  "name": "gulp_bckp_image",
+  "version": "1.0.0",
+  "description": "Take screenshot",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "event-stream": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-tap": "^2.0.0",
+    "puppeteer": "^3.0.1",
+    "sharp": "^0.25.2"
+  },
+  "devDependencies": {
+    "gulp-zip": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
